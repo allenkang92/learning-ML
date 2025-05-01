@@ -14,8 +14,10 @@
 │   └── 05_advanced_modeling.md    # 표현 학습, 최적화, 모델 선택
 ├── 02_neural_networks/            # 신경망 관련 내용
 │   ├── 01_perceptron_basics.md    # 퍼셉트론 기초
+│   ├── 02_lightweight_models.md   # 최신 경량 딥러닝 모델 동향
 │   ├── perceptron.py              # AND 게이트 구현 코드
-│   └── logistic_and_gate.py       # 로지스틱 회귀로 AND 게이트 구현
+│   ├── logistic_and_gate.py       # 로지스틱 회귀로 AND 게이트 구현
+│   └── softmax_and_gate.py        # 소프트맥스 회귀로 AND 게이트 구현
 └── code_examples/                 # 코드 예제
     ├── model_selection/
     │   └── knn_wine_selection.py  # KNN 모델 선택 예제
@@ -34,7 +36,8 @@
 
 ### 신경망
 - 퍼셉트론 기초와 구현
-- 로지스틱 회귀 구현
+- 로지스틱 및 소프트맥스 회귀 구현
+- 최신 경량 딥러닝 모델 동향
 
 ### 코드 예제
 - KNN을 이용한 와인 분류 및 모델 선택
