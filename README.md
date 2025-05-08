@@ -20,7 +20,8 @@
 │   ├── perceptron.py              # AND 게이트 구현 코드
 │   ├── logistic_and_gate.py       # 로지스틱 회귀로 AND 게이트 구현
 │   ├── softmax_and_gate.py        # 소프트맥스 회귀로 AND 게이트 구현
-│   └── multi_task_learning.py     # 다중 작업 학습 신경망 구현
+│   ├── multi_task_learning.py     # 다중 작업 학습 신경망 구현
+│   └── mlp_xor_gate.py            # 다층 퍼셉트론으로 XOR 게이트 구현
 └── code_examples/                 # 코드 예제
     ├── model_selection/
     │   └── knn_wine_selection.py  # KNN 모델 선택 예제
@@ -42,6 +43,7 @@
 - 로지스틱 및 소프트맥스 회귀 구현
 - 최신 경량 딥러닝 모델 동향
 - Numpy를 이용한 신경망 구현 및 다중 작업 학습
+- 다층 퍼셉트론(MLP)을 통한 XOR 문제 해결
 - 딥러닝의 역사, 기초 개념 및 최적화 알고리즘
 
 ### 코드 예제
