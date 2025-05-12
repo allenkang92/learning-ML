@@ -25,8 +25,10 @@
 └── code_examples/                 # 코드 예제
     ├── model_selection/
     │   └── knn_wine_selection.py  # KNN 모델 선택 예제
-    └── feature_selection/
-        └── feature_selection_example.py # 특성 선택 기법 예제
+    ├── feature_selection/
+    │   └── feature_selection_example.py # 특성 선택 기법 예제
+    └── deep_learning/
+        └── fashion_mnist_classification.py # Fashion MNIST 이미지 분류 예제
 ```
 
 ## 주요 내용
@@ -49,3 +51,4 @@
 ### 코드 예제
 - KNN을 이용한 와인 분류 및 모델 선택
 - 다양한 특성 선택 기법 비교
+- TensorFlow Keras를 이용한 Fashion MNIST 이미지 분류
