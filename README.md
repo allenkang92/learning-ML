@@ -17,6 +17,8 @@
 │   ├── 02_lightweight_models.md   # 최신 경량 딥러닝 모델 동향
 │   ├── 03_numpy_neural_network.md # Numpy를 이용한 신경망 구현
 │   ├── 04_deep_learning_fundamentals.md # 딥러닝/신경망 학습 기초
+│   ├── 05_tensorflow_keras_basics.md # TensorFlow와 Keras 기초
+│   ├── 06_convolutional_neural_networks.md # 컨볼루션 신경망(CNN)
 │   ├── perceptron.py              # AND 게이트 구현 코드
 │   ├── logistic_and_gate.py       # 로지스틱 회귀로 AND 게이트 구현
 │   ├── softmax_and_gate.py        # 소프트맥스 회귀로 AND 게이트 구현
@@ -47,6 +49,8 @@
 - Numpy를 이용한 신경망 구현 및 다중 작업 학습
 - 다층 퍼셉트론(MLP)을 통한 XOR 문제 해결
 - 딥러닝의 역사, 기초 개념 및 최적화 알고리즘
+- TensorFlow와 Keras를 이용한 딥러닝 모델 구축 방법
+- 컨볼루션 신경망(CNN)의 원리와 구조
 
 ### 코드 예제
 - KNN을 이용한 와인 분류 및 모델 선택
