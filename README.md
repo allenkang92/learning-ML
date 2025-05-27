@@ -19,6 +19,7 @@
 │   ├── 04_deep_learning_fundamentals.md # 딥러닝/신경망 학습 기초
 │   ├── 05_tensorflow_keras_basics.md # TensorFlow와 Keras 기초
 │   ├── 06_convolutional_neural_networks.md # 컨볼루션 신경망(CNN)
+│   ├── 07_transfer_learning.md    # 전이 학습과 사전 학습 모델 활용
 │   ├── perceptron.py              # AND 게이트 구현 코드
 │   ├── logistic_and_gate.py       # 로지스틱 회귀로 AND 게이트 구현
 │   ├── softmax_and_gate.py        # 소프트맥스 회귀로 AND 게이트 구현
@@ -51,6 +52,7 @@
 - 딥러닝의 역사, 기초 개념 및 최적화 알고리즘
 - TensorFlow와 Keras를 이용한 딥러닝 모델 구축 방법
 - 컨볼루션 신경망(CNN)의 원리와 구조
+- 전이 학습과 사전 학습 모델을 활용한 효율적인 모델링
 
 ### 코드 예제
 - KNN을 이용한 와인 분류 및 모델 선택
